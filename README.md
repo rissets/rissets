@@ -51,17 +51,12 @@
 
 <img align="left" alt="Danang Haris S Github Stats" src="https://github-readme-stats.danangharissetiawan.vercel.app/api?username=danangharissetiawan&show_icons=true&hide_border=true" />
 
-[![Spotify](https://spotify-now-playing.danangharissetiawan.vercel.app/api/spotify)](https://open.spotify.com/user/hq6njyystjpd7vwlu6miay9uv)
-
-<<<<<<< HEAD
 ---
 
 ### Spotify Playing 🎧
-&nbsp; <br> [![Spotify](https://spotify-now-playing.danangharissetiawan.vercel.app/api/spotify)](https://open.spotify.com/user/hq6njyystjpd7vwlu6miay9uv)
+[![Spotify](https://spotify-now-playing.danangharissetiawan.vercel.app/api/spotify)](https://open.spotify.com/user/hq6njyystjpd7vwlu6miay9uv)
 
-=======
->>>>>>> 04089876d51953ef3a00c2af14390be0e865003c
-<br />
+
 <br />
 
 [website]: https://darisset.site
