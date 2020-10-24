@@ -46,6 +46,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="left" alt="Danang Haris S Github Stats" src="https://github-readme-stats.vercel.app/api?username=danangharissetiawan&show_icons=true&hide_border=true" />
+
+
 [website]: https://darisset.site
 [twitter]: https://twitter.com/Danangharisset1
 [instagram]: https://www.instagram.com/mr.danang_haris
