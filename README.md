@@ -5,11 +5,25 @@
 
 ## I'am a Youth, Servant of Allah, Developer, and Student!!
 
-- 🔭 I just launched my first platform: [Do Not Hesitate! -Darisset][website]!
-- 🌱 Someday I will be successful 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: mastering the python programming language
-- ⚡ Fun fact: I love coffee, handling cases, martial arts and playing guitar
+
+
+### Spotify Playing 🎧
+<table width="100%"> 
+  <tr>
+  <td width="60%">
+
+      - 🔭 I just launched my first platform: [Do Not Hesitate! -Darisset][website]!
+      - 🌱 Someday I will be successful 🤣
+      - 👯 I’m looking to collaborate with other content creators
+      - 🥅 2020 Goals: mastering the python programming language
+      - ⚡ Fun fact: I love coffee, handling cases, martial arts and playing guitar
+
+  </td>
+  <td width="40%">
+      [<img src="https://spotify-now-playing.danangharissetiawan.vercel.app/api/spotify" alt="Darisset Playing" width="350" />](https://open.spotify.com/user/hq6njyystjpd7vwlu6miay9uv)
+
+  </td>
+  </table>
 
 ### Connect with me:
 
@@ -55,23 +69,7 @@
 <br />
 ---
 
-### Spotify Playing 🎧
-<table width="100%"> 
-  <tr>
-  <td width="50%">
 
-[<img src="https://spotify-now-playing.danangharissetiawan.vercel.app/api/spotify-playing" alt="Darisset Playing" width="350" />](https://open.spotify.com/user/hq6njyystjpd7vwlu6miay9uv)
-
-  </td>
-  <td width="50%">
-
-<br><p align="center">Keep Smile For Awesome!<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/danang-haris-setiawan-darisset)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/qzZQC)
-  [![Visits](https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/danangharissetiawan)
-</p>
-  </td>
-  </table>
 
 [website]: https://darisset.site
 [twitter]: https://twitter.com/Danangharisset1
