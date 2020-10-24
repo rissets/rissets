@@ -51,6 +51,10 @@
 
 <img align="left" alt="Danang Haris S Github Stats" src="https://github-readme-stats.danangharissetiawan.vercel.app/api?username=danangharissetiawan&show_icons=true&hide_border=true" />
 
+
+---
+
+### Spotify Playing 🎧
 &nbsp; <br> [![Spotify](https://spotify-now-playing.danangharissetiawan.vercel.app/api/spotify)](https://open.spotify.com/user/hq6njyystjpd7vwlu6miay9uv)
 
 <br />
