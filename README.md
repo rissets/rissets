@@ -59,17 +59,17 @@
   </td>
   <td width="50%">
 
-<br><p align="center">Everything here is available under the [Unlicense](https://choosealicense.com/licenses/unlicense/)!<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-novac)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/5ck1H)
-  [![Visits](https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/novatorem)
+<br><p align="center">Keep Smile For Awesome 🤣!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/danang-haris-setiawan-darisset)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/qzZQC)
+  [![Visits](https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/danangharissetiawan)
 </p>
   </td>
   </table>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
 
----
+
 
 <img align="left" alt="Danang Haris S Github Stats" src="https://github-readme-stats.danangharissetiawan.vercel.app/api?username=danangharissetiawan&show_icons=true&hide_border=true" />
 
