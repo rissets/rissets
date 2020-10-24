@@ -52,6 +52,7 @@
 <img align="left" alt="Danang Haris S Github Stats" src="https://github-readme-stats.danangharissetiawan.vercel.app/api?username=danangharissetiawan&show_icons=true&hide_border=true" />
 
 
+<br />
 ---
 
 ### Spotify Playing 🎧
@@ -59,7 +60,7 @@
   <tr>
   <td width="50%">
 
-[<img src="https://spotify-now-playing-git-master.danangharissetiawan.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/hq6njyystjpd7vwlu6miay9uv)
+[<img src="https://spotify-now-playing.danangharissetiawan.vercel.app/api/spotify-playing" alt="Darisset Playing" width="350" />](https://open.spotify.com/user/hq6njyystjpd7vwlu6miay9uv)
 
   </td>
   <td width="50%">
