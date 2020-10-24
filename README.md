@@ -51,6 +51,24 @@
 
 <img align="left" alt="Danang Haris S Github Stats" src="https://github-readme-stats.vercel.app/api?username=danangharissetiawan&show_icons=true&hide_border=true" />
 
+---
+
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://spotify-now-playing-git-master.danangharissetiawan.vercel.app)](https://open.spotify.com/user/hq6njyystjpd7vwlu6miay9uv)
+
+  </td>
+  <td width="50%">
+
+<br><p align="center">Keep Smile For Awesome!<br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/danang-haris-setiawan-darisset)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/qzZQC)
+  [![Visits](https://badges.pufler.dev/visits/novatorem/novatorem?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/danangharissetiawan)
+</p>
+  </td>
+  </table>
 
 [website]: https://darisset.site
 [twitter]: https://twitter.com/Danangharisset1
