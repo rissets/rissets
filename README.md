@@ -44,6 +44,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Cara Beralih Versi Python Di Ubuntu](https://dev.to/danangharissetiawan/cara-beralih-versi-python-di-ubuntu-4h8)
 - [Port Scanner Dengan Python](https://dev.to/danangharissetiawan/port-scanner-dengan-python-40o0)
 <!-- BLOG-POST-LIST:END -->
 
