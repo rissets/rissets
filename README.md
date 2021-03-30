@@ -8,7 +8,7 @@
 - 🔭 I just launched my first platform: [Do Not Hesitate! -Darisset][website]!
 - 🌱 Someday I will be successful 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: mastering the python programming language
+- 🥅 2021 Goals: mastering the python programming language
 - ⚡ Fun fact: I love coffee, handling cases, martial arts and playing guitar
 
 ### Connect with me:
