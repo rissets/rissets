@@ -27,8 +27,6 @@ Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://w
 
 
 <br>
-<br>
-
 
 ## 🚀 Languages and Tools
 
