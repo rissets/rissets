@@ -48,7 +48,7 @@ Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://w
 <br />
 <br />
 
-## 📕 Latest Blog Posts
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Cara Beralih Versi Python Di Ubuntu](https://dev.to/danangharissetiawan/cara-beralih-versi-python-di-ubuntu-4h8)
 - [Port Scanner Dengan Python](https://dev.to/danangharissetiawan/port-scanner-dengan-python-40o0)
@@ -56,11 +56,12 @@ Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://w
 
 
 
-## 📊 My GitHub Stats 
+### 📊 **My GitHub Stats**
 
 | ![Danang Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=danangharissetiawan&count_private=true&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danangharissetiawan&layout=compact&hide=javascript,openedge+abl,css,html)](https://github.com/danangharissetiawan) |
 |-----------------|:-------------|
 
+### 📅 **I'm an early date**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
