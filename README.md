@@ -56,7 +56,7 @@ Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://w
 
 
 
-## My GitHub Stats 📊
+## 📊 My GitHub Stats 
 
 | ![Danang Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=danangharissetiawan&count_private=true&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danangharissetiawan&layout=compact&hide=javascript,openedge+abl,css,html)](https://github.com/danangharissetiawan) |
 |-----------------|:-------------|
