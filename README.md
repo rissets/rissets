@@ -1,7 +1,15 @@
-### Hi there, I'm Danang Haris Setiawan - [Darisset][website] 👋
+# Hi I'm Haris 👋
 
-[![Website](https://img.shields.io/website?label=darisset.site&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://darisset.site)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Danangharisset1?color=1DA1F2&logo=twitter&style=for-the-badge)](htthttps://twitter.com/Danangharisset1)
+[![Linkedin Badge](https://img.shields.io/badge/Mr.haris-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danang-haris-setiawan-darisset/)](https://www.linkedin.com/in/danang-haris-setiawan-darisset/)
+[![Medium Badge](https://img.shields.io/badge/@danangharis-000000?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@mr.danangharissetiawan)](https://medium.com/@mr.danangharissetiawan)
+[![Twitter Badge](https://img.shields.io/badge/@danangharisset1-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Danangharisset1)](https://twitter.com/Danangharisset1)
+[![Instagram Badge](https://img.shields.io/badge/@mr.danang_haris-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mr.danang_haris/)](https://www.instagram.com/mr.danang_haris/)
+[![Gmail Badge](https://img.shields.io/badge/-mr.danangharissetiawan-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mr.danangharissetiawan@gmail.com)](mailto:mr.danangharissetiawan@gmail.com)
+
+
+Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://www.dinus.ac.id/) majoring in Computer Science. I am a full-stack software developer with no experience working other than remote work in the past three years as a Software Engineer and Data Analytics. Apart from programming, I have great interests in martial arts, writing, and music.
+
+<img align="right" src="https://media.giphy.com/media/ZapH43gBVQWNCTbuc6/giphy.gif" />
 
 ## I'am a Youth, Servant of Allah, Developer, and Student!!
 
@@ -11,14 +19,6 @@
 - 🥅 2021 Goals: mastering the python programming language
 - ⚡ Fun fact: I love coffee, handling cases, martial arts and playing guitar
 
-### Connect with me:
-
-[<img align="left" alt="darisset.site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Danangharis1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="danang-haris-setiawan-darisset | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mr.danang_haris | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Languages and Tools:
 
@@ -50,20 +50,6 @@
 
 ---
 
-### Spotify Playing 🎧
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://spotify-now-playing.danangharissetiawan.vercel.app/api/spotify)](https://open.spotify.com/user/hq6njyystjpd7vwlu6miay9uv)
-
-  </td>
-  <td width="50%">
-
-<br><p align="center">Keep Smile For Awesome 🤣!<br><br>
-  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/danang-haris-setiawan-darisset)
-  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/qzZQC)
-</p>
   </td>
   </table>
 
