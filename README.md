@@ -55,16 +55,13 @@ Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://w
 <!-- BLOG-POST-LIST:END -->
 
 
-  </td>
-  </table>
 
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+## Contribution Github:
+
+| ![Danang Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=danangharissetiawan&count_private=true&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danangharissetiawan&layout=compact&hide=javascript,openedge+abl,css,html)](https://github.com/danangharissetiawan/github-readme-stats) |
+|-----------------|:-------------|
 
 
-
-<img align="left" alt="Danang Haris S Github Stats" src="https://github-readme-stats.danangharissetiawan.vercel.app/api?username=danangharissetiawan&show_icons=true&hide_border=true" />
-
-<br />
 
 [website]: https://darisset.site
 [twitter]: https://twitter.com/Danangharisset1
