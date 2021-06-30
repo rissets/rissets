@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.348e3d51-7da8-4c56-b105-e1f5fbad062d }}
-          GH_TOKEN: ${{ secrets.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 }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
