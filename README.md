@@ -26,7 +26,9 @@ Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://w
 - ⚡ Fun fact: I love coffee, handling cases, martial arts and playing guitar
 
 
----
+<br>
+<br>
+
 
 ## Languages and Tools:
 
