@@ -62,6 +62,7 @@ Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://w
 |-----------------|:-------------|
 
 ### 📅 **I'm an early date**
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
