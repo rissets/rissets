@@ -17,7 +17,7 @@ Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://w
 
 ## I'am a Youth, Servant of Allah, Developer, and Student!!
 
-<img align="right" src="https://media.giphy.com/media/ZapH43gBVQWNCTbuc6/giphy.gif" width="400px;"/>
+<img align="right" src="https://media.giphy.com/media/ZapH43gBVQWNCTbuc6/giphy.gif" width="300px;"/>
 
 - 🔭 I just launched my first platform: [Do Not Hesitate! -Darisset][website]!
 - 🌱 Someday I will be successful 🤣
