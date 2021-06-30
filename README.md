@@ -26,7 +26,9 @@ Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://w
 - ⚡ Fun fact: I love coffee, handling cases, martial arts and playing guitar
 
 
-### Languages and Tools:
+---
+
+## Languages and Tools:
 
 [<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][webdevplaylist]
 [<img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
@@ -46,15 +48,12 @@ Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://w
 <br />
 <br />
 
----
-
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Cara Beralih Versi Python Di Ubuntu](https://dev.to/danangharissetiawan/cara-beralih-versi-python-di-ubuntu-4h8)
 - [Port Scanner Dengan Python](https://dev.to/danangharissetiawan/port-scanner-dengan-python-40o0)
 <!-- BLOG-POST-LIST:END -->
 
----
 
   </td>
   </table>
