@@ -54,13 +54,6 @@ Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://w
 - [Port Scanner Dengan Python](https://dev.to/danangharissetiawan/port-scanner-dengan-python-40o0)
 <!-- BLOG-POST-LIST:END -->
 
-
-
-### 📊 My GitHub Stats
-
-| ![Danang Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=danangharissetiawan&count_private=true&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danangharissetiawan&layout=compact&hide=javascript,openedge+abl,css,html)](https://github.com/danangharissetiawan) |
-|-----------------|:-------------|
-
 ### 📅 I'm an early date
 
 <!--START_SECTION:waka-->
