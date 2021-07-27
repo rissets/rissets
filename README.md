@@ -58,11 +58,11 @@ Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://w
 
 <!--START_SECTION:waka-->
 ```text
-Python       12 hrs 46 mins  ████████████▓░░░░░░░░░░░░   51.17 % 
-HTML         8 hrs 56 mins   █████████░░░░░░░░░░░░░░░░   35.80 % 
-CSS          1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Dart         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-JavaScript   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Python       14 hrs 38 mins  ██████████████▓░░░░░░░░░░   58.76 % 
+HTML         6 hrs 56 mins   ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+CSS          1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Dart         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+JavaScript   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 <!--END_SECTION:waka-->
 
