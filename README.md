@@ -19,7 +19,7 @@ Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://w
 
 <img align="right" src="https://media.giphy.com/media/ZapH43gBVQWNCTbuc6/giphy.gif" width="300px;"/>
 
-- 🔭 I just launched my first platform: [Do Not Hesitate! -Darisset][website]!
+- 🔭 I just launched my first platform: [Just for fun! - RISSET][website]!
 - 🌱 Someday I will be successful 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: mastering the python programming language
@@ -64,7 +64,7 @@ JSON    18 mins         █▒░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-[website]: https://darisset.site
+[website]: https://risset.social
 [twitter]: https://twitter.com/Danangharisset1
 [instagram]: https://www.instagram.com/mr.danang_haris
 [linkedin]: https://www.linkedin.com/in/danang-haris-setiawan-darisset
