@@ -1,4 +1,4 @@
-# Hi I'm Haris 👋
+# Hi I'm Danang Haris Setiawan 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/Mr.haris-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danang-haris-setiawan-darisset/)](https://www.linkedin.com/in/danang-haris-setiawan-darisset/)
 [![Medium Badge](https://img.shields.io/badge/@danangharis-000000?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@mr.danangharissetiawan)](https://medium.com/@mr.danangharissetiawan)
