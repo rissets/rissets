@@ -7,8 +7,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-mr.danangharissetiawan-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mr.danangharissetiawan@gmail.com)](mailto:mr.danangharissetiawan@gmail.com)
 
 
-Hello, my name is Danang Haris Setiawan and I am a student at [UDINUS](https://www.dinus.ac.id/) majoring in Computer Science. I am a full-stack software developer with no experience working other than remote work in the past three years as a Software Engineer and Data Analytics. Apart from programming, I have great interests in martial arts, writing, and music. And ☕ [Buy me a coffee!](https://www.buymeacoffee.com/darisset) 🥰
-
+I am an Indonesia-based Web Developer and Data Analyst with a purpose-driven creative mindset and a passion for learning and innovation.
+Currently studying at Dian Nuswantoro University majoring in computer science and currently focusing on web development and data analysis.
+Outside work, I occasionally blog on [Medium](https://medium.com/@mr.danangharissetiawan), [Dev.to](https://dev.to/danangharissetiawan) and on [My Blog](https://memories.risset.me).
+Other than that, I have great interests in martial arts, writing, and music, and also likes to drink ☕ [Coffee!](https://www.buymeacoffee.com/darisset) 🥰
 
 
 <!-- <img align="right" src="https://media.giphy.com/media/BFDYVDaCi4X5oupjWP/giphy.gif"> -->
