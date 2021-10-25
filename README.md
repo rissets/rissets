@@ -72,5 +72,5 @@ CSS        26 mins         ▓░░░░░░░░░░░░░░░░�
 [website]: https://risset.me
 [twitter]: https://twitter.com/Danangharisset1
 [instagram]: https://www.instagram.com/mr.danang_haris
-[linkedin]: https://www.linkedin.com/in/danang-haris-setiawan-darisset
+[linkedin]: https://www.linkedin.com/in/danangharis
 [webdevplaylist]: https://github.com/danangharissetiawan/danangharissetiawan
