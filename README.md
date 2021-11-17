@@ -60,11 +60,11 @@ Other than that, I have great interests in martial arts, writing, and music, and
 
 <!--START_SECTION:waka-->
 ```text
-Python           2 hrs 58 mins   █████████████▒░░░░░░░░░░░   53.64 % 
-HTML             1 hr 12 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.92 % 
-C++              1 hr 4 mins     ████▓░░░░░░░░░░░░░░░░░░░░   19.33 % 
-JSON             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Python   3 hrs 52 mins   █████████████░░░░░░░░░░░░   51.64 % 
+HTML     1 hr 12 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+C++      1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+YAML     1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+JSON     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 <!--END_SECTION:waka-->
 
