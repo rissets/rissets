@@ -60,8 +60,8 @@ Other than that, I have great interests in martial arts, writing, and music, and
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 14 mins    ███████████████▒░░░░░░░░░   61.44 % 
-YAML     46 mins         █████████▓░░░░░░░░░░░░░░░   38.56 % 
+Python   50 mins         █████████████████░░░░░░░░   67.81 % 
+YAML     24 mins         ████████░░░░░░░░░░░░░░░░░   32.19 % 
 ```
 <!--END_SECTION:waka-->
 
