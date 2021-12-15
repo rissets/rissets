@@ -51,6 +51,7 @@ Other than that, I have great interests in martial arts, writing, and music, and
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Exploratory Data Analysis with Python for Beginner](https://dev.to/danangharissetiawan/exploratory-data-analysis-with-python-for-beginner-13kf)
 - [Tipe Data Abstract - Day 01](https://dev.to/danangharissetiawan/tipe-data-abstract-day-01-4lcd)
 - [Cara Beralih Versi Python Di Ubuntu](https://dev.to/danangharissetiawan/cara-beralih-versi-python-di-ubuntu-4h8)
 - [Port Scanner Dengan Python](https://dev.to/danangharissetiawan/port-scanner-dengan-python-40o0)
