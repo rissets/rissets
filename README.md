@@ -61,7 +61,7 @@ Other than that, I have great interests in martial arts, writing, and music, and
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   29 mins         ████████████████████████▓   98.14 % 
+Markdown   29 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
