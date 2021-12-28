@@ -61,7 +61,9 @@ Other than that, I have great interests in martial arts, writing, and music, and
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         1 hr 25 mins    ███████████████████░░░░░░   76.33 % 
+JavaScript   15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+CSS          10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 ```
 <!--END_SECTION:waka-->
 
