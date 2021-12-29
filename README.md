@@ -61,9 +61,11 @@ Other than that, I have great interests in martial arts, writing, and music, and
 
 <!--START_SECTION:waka-->
 ```text
-HTML         1 hr 25 mins    ███████████████████░░░░░░   76.33 % 
-JavaScript   15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-CSS          10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+HTML         1 hr 54 mins    ████████████▒░░░░░░░░░░░░   48.70 % 
+C++          1 hr 1 min      ██████▒░░░░░░░░░░░░░░░░░░   25.93 % 
+JavaScript   29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+JSON         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+CSS          11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 ```
 <!--END_SECTION:waka-->
 
