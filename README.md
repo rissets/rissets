@@ -61,7 +61,9 @@ Other than that, I have great interests in martial arts, writing, and music, and
 
 <!--START_SECTION:waka-->
 ```text
-C++      3 hrs 5 mins    █████████████████████████   99.55 % 
+C++      3 hrs 5 mins    ██████████████████████▓░░   91.13 % 
+Python   14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+HTML     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 ```
 <!--END_SECTION:waka-->
 
