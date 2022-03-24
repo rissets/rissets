@@ -23,7 +23,7 @@ Other than that, I have great interests in martial arts, writing, and music, and
 - 🔭 I just launched my first platform: [Just for fun! - RISSET][website]!
 - 🌱 Someday I will be successful 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: mastering the python programming language
+- 🥅 2022 Goals: become an expert in a domain, technology or language
 - ⚡ Fun fact: I love coffee, handling cases, martial arts and playing guitar
 
 
