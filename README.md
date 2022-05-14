@@ -62,10 +62,14 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2022 - To: 12 May 2022
+From: 06 May 2022 - To: 13 May 2022
 
-Java         1 hr 40 mins    ████████████████████████▒   97.49 %
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Python       2 hrs 20 mins   ███████████▒░░░░░░░░░░░░░   45.07 %
+Java         1 hr 40 mins    ████████░░░░░░░░░░░░░░░░░   32.10 %
+XML          48 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+HTML         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
