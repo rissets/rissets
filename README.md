@@ -62,7 +62,7 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2022 - To: 02 June 2022
+From: 27 May 2022 - To: 03 June 2022
 
 Java                1 hr 30 mins    ████████████████████▒░░░░   80.84 %
 GUI_DESIGNER_FORM   21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
