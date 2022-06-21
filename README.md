@@ -62,14 +62,14 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 June 2022 - To: 19 June 2022
+From: 13 June 2022 - To: 20 June 2022
 
-Java                3 hrs 33 mins   ███████████████████░░░░░░   75.97 %
-Blade Template      39 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-PHP                 20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-Bash                5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-GUI_DESIGNER_FORM   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-INI                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Java                2 hrs 31 mins   ██████████████▒░░░░░░░░░░   57.10 %
+XML                 41 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+Blade Template      39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+PHP                 20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Bash                5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+GUI_DESIGNER_FORM   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
