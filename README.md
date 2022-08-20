@@ -62,12 +62,13 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 August 2022 - To: 17 August 2022
+From: 12 August 2022 - To: 19 August 2022
 
-Python       11 hrs 52 mins  ███████████████████▓░░░░░   79.30 %
-TOML         1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-Markdown     54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Python     1 hr 3 mins     █████████████▒░░░░░░░░░░░   53.49 %
+TOML       36 mins         ███████▓░░░░░░░░░░░░░░░░░   31.03 %
+Markdown   15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Text       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
