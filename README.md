@@ -17,16 +17,6 @@ Other than that, I have great interests in martial arts, writing, and music, and
 
 <!-- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ZapH43gBVQWNCTbuc6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ZapH43gBVQWNCTbuc6">via GIPHY</a></p> -->
 
-## I'am a Youth, Servant of Allah, Developer, and Student!!
-
-
-- 🔭 I just launched my first platform: [Just for fun! - RISSET][website]!
-- 🌱 Someday I will be successful 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: become an expert in a domain, technology or language
-- ⚡ Fun fact: I love coffee, handling cases, martial arts and playing guitar
-
-
 <br>
 
 ### 🚀 **Languages and Tools**
