@@ -16,7 +16,6 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!-- <img align="right" src="https://media.giphy.com/media/BFDYVDaCi4X5oupjWP/giphy.gif"> -->
 
 <!-- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ZapH43gBVQWNCTbuc6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ZapH43gBVQWNCTbuc6">via GIPHY</a></p> -->
-<br />
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
