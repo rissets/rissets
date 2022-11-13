@@ -30,7 +30,7 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 11 November 2022
+From: 05 November 2022 - To: 12 November 2022
 
 Python           15 hrs 16 mins  █████████████████████▒░░░   85.25 %
 HTML             1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
