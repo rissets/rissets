@@ -30,7 +30,7 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
 Jupyter          5 mins          █████████████████▒░░░░░░░   69.60 %
 GitIgnore file   1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
