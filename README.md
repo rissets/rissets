@@ -30,13 +30,11 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-Jupyter          5 mins          █████████████████▒░░░░░░░   69.60 %
-GitIgnore file   1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.29 %
-Markdown         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-CSV/TSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Jupyter   1 hr 59 mins    ██████████████████████▒░░   89.19 %
+CSV/TSV   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+Python    7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
 ```
 
 <!--END_SECTION:waka-->
