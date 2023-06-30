@@ -30,13 +30,13 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 June 2023 - To: 28 June 2023
+From: 22 June 2023 - To: 29 June 2023
 
-Python              13 hrs 40 mins  ██████████████▒░░░░░░░░░░   57.43 %
-HTML                3 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-JavaScript          2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-YAML                1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Docker              1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Python              12 hrs 44 mins  █████████████▓░░░░░░░░░░░   55.08 %
+HTML                3 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
+JavaScript          2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+YAML                1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Docker              1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
 ```
 
 <!--END_SECTION:waka-->
