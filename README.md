@@ -30,7 +30,7 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2023 - To: 12 August 2023
+From: 06 August 2023 - To: 13 August 2023
 
 JavaScript   2 hrs 32 mins   ████████████████▓░░░░░░░░   66.39 %
 Python       39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
