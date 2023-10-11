@@ -7,8 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-mr.danangharissetiawan-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mr.danangharissetiawan@gmail.com)](mailto:mr.danangharissetiawan@gmail.com)
 
 
-I am an Indonesia-based Web Developer and Data Analyst with a purpose-driven creative mindset and a passion for learning and innovation.
-Currently studying at [Universitas Dian Nuswantoro](https://dinus.ac.id/) majoring in computer science and currently focusing on web development and data analysis.
+I am an Indonesia-based Software Developer and Machine Learning Specialization with a purpose-driven creative mindset and a passion for learning and innovation.
+Currently studying at [Universitas Dian Nuswantoro](https://dinus.ac.id/) majoring in computer science and currently focusing on Software Developer and Machine Learning.
 Outside work, I occasionally blog on [Medium](https://medium.com/@mr.danangharissetiawan), [Dev.to](https://dev.to/danangharissetiawan) and on [My Blog](https://memories.risset.me).
 Other than that, I have great interests in martial arts, writing, and music, and also likes to drink ☕ [Coffee!](https://www.buymeacoffee.com/darisset) 🥰
 
