@@ -30,13 +30,13 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2023 - To: 22 October 2023
+From: 16 October 2023 - To: 23 October 2023
 
-Dart             4 hrs 30 mins   ███████████████████░░░░░░   75.91 %
-Python           58 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-Markdown         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-JSON             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-YAML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Dart             4 hrs 30 mins   ███████████████████████▓░   94.48 %
+JSON             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+YAML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+INI              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
