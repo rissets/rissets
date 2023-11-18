@@ -30,13 +30,13 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 10 November 2023 - To: 17 November 2023
 
-Go            7 hrs 25 mins   ██████████████████████▒░░   89.55 %
-Cheetah       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Go Template   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Text          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-HTML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Go            7 hrs 2 mins    ████████████████████████░   95.62 %
+Go Template   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Text          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
