@@ -29,7 +29,7 @@ Other than that, I have great interests in martial arts, writing, and music, and
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
 From: 13 November 2023 - To: 20 November 2023
 
 Total Time: 16 hrs 30 mins
