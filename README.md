@@ -28,6 +28,15 @@ Other than that, I have great interests in martial arts, writing, and music, and
 ### 📅 I'm an early date
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 13 November 2023 - To: 20 November 2023
+
+Total Time: 16 hrs 30 mins
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
