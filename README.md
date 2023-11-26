@@ -30,14 +30,14 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2023 - To: 24 November 2023
+From: 18 November 2023 - To: 25 November 2023
 
-Total Time: 23 hrs 16 mins
+Total Time: 21 hrs 40 mins
 
-Go                    15 hrs 48 mins  █████████████████░░░░░░░░   67.93 %
-SQL                   4 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   20.51 %
-Markdown              38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-HTTP Request          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Go                    14 hrs 15 mins  ████████████████▒░░░░░░░░   65.79 %
+SQL                   4 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
+Markdown              38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+HTTP Request          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
