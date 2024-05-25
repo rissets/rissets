@@ -30,15 +30,15 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2024 - To: 23 May 2024
+From: 17 May 2024 - To: 24 May 2024
 
-Total Time: 6 hrs 48 mins
+Total Time: 4 hrs 22 mins
 
-Python                4 hrs 57 mins   ██████████████████░░░░░░░   72.64 %
-HTTP Request          1 hr 4 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
-Bash                  20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
-Markdown              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-GitIgnore file        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Python                2 hrs 53 mins   ████████████████▒░░░░░░░░   65.95 %
+HTTP Request          1 hr 4 mins     ██████░░░░░░░░░░░░░░░░░░░   24.52 %
+Bash                  13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+GitIgnore file        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+JSON                  2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
