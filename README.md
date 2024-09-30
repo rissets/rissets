@@ -30,7 +30,7 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2024 - To: 27 September 2024
+From: 22 September 2024 - To: 29 September 2024
 
 Total Time: 18 hrs 29 mins
 
