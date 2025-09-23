@@ -30,15 +30,15 @@ Other than that, I have great interests in martial arts, writing, and music, and
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2025 - To: 20 September 2025
+From: 15 September 2025 - To: 22 September 2025
 
-Total Time: 30 hrs 36 mins
+Total Time: 31 hrs 43 mins
 
-Python       9 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   30.39 %
-TypeScript   8 hrs 21 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.29 %
-SQL          3 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-JavaScript   3 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-Markdown     1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+TypeScript   11 hrs 52 mins  █████████▒░░░░░░░░░░░░░░░   37.46 %
+Python       9 hrs 17 mins   ███████▒░░░░░░░░░░░░░░░░░   29.32 %
+JavaScript   3 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+Markdown     2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+SQL          1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 ```
 
 <!--END_SECTION:waka-->
