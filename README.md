@@ -1,21 +1,59 @@
-# Hi I'm Danang Haris Setiawan 👋
+# Hi, I'm Danang Haris Setiawan 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/Mr.haris-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danang-haris-setiawan-darisset/)](https://www.linkedin.com/in/danangharis/)
-[![Medium Badge](https://img.shields.io/badge/@danangharis-000000?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@mr.danangharissetiawan)](https://medium.com/@mr.danangharissetiawan)
-[![Twitter Badge](https://img.shields.io/badge/@danangharisset1-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Danangharisset1)](https://twitter.com/Danangharisset1)
-[![Instagram Badge](https://img.shields.io/badge/@mr.danang_haris-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mr.danang_haris/)](https://www.instagram.com/mr.danang_haris/)
-[![Gmail Badge](https://img.shields.io/badge/-mr.danangharissetiawan-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mr.danangharissetiawan@gmail.com)](mailto:mr.danangharissetiawan@gmail.com)
+### I build intelligent software solutions.
 
+[![Website](https://img.shields.io/badge/hi.rissets.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://hi.rissets.com)
+[![Linkedin Badge](https://img.shields.io/badge/danangharis-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danangharis/)
+[![Medium Badge](https://img.shields.io/badge/@danangharis-000000?style=for-the-badge&labelColor=000000&logo=Medium)](https://medium.com/@mr.danangharissetiawan)
+[![Instagram Badge](https://img.shields.io/badge/@mr.danang__haris-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.danang_haris/)
+[![Gmail Badge](https://img.shields.io/badge/hi@rissets.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hi@rissets.com)
 
-I am an Indonesia-based Software Developer and Machine Learning Specialization with a purpose-driven creative mindset and a passion for learning and innovation.
-Currently studying at [Universitas Dian Nuswantoro](https://dinus.ac.id/) majoring in computer science and currently focusing on Software Developer and Machine Learning.
-Outside work, I occasionally blog on [Medium](https://medium.com/@mr.danangharissetiawan), [Dev.to](https://dev.to/danangharissetiawan) and on [My Blog](https://memories.risset.me).
-Other than that, I have great interests in martial arts, writing, and music, and also likes to drink ☕ [Coffee!](https://www.buymeacoffee.com/darisset) 🥰
+---
 
+I'm an **AI Engineer & Backend Developer** specializing in building production-grade AI systems — from face recognition engines and agentic AI simulators to physics-informed neural networks and real-world asset platforms. I architect scalable solutions where machine learning meets robust software engineering.
 
-<!-- <img align="right" src="https://media.giphy.com/media/BFDYVDaCi4X5oupjWP/giphy.gif"> -->
+Currently working as an **AI Engineer** at [Pt Bagus Harapan Tritunggal](https://bht.co.id), building production AI systems for government institutions and enterprises. Previously led backend engineering at [Orbit Tech Solution](https://orbitechsolution.com), architecting systems for Web3 platforms, AI golf simulators, and smart farming IoT applications.
 
-<!-- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ZapH43gBVQWNCTbuc6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ZapH43gBVQWNCTbuc6">via GIPHY</a></p> -->
+I graduated with a **Bachelor of Computer Science (GPA: 3.7)** from [Universitas Dian Nuswantoro](https://dinus.ac.id/), Semarang.
+
+Outside work, I occasionally blog on [Medium](https://medium.com/@mr.danangharissetiawan), [Dev.to](https://dev.to/danangharissetiawan) and on [My Blog](https://memories.risset.me). I also have great interests in martial arts, writing, and music ☕
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, Go, JavaScript, TypeScript, Dart, SQL
+
+**AI / ML:** PyTorch, TensorFlow, OpenCV, InsightFace, MediaPipe, Ultralytics, LLMs, Langchain, Agentic AI, Scikit-learn, Keras
+
+**Backend:** Django, Flask, FastAPI, gRPC, REST APIs, Celery
+
+**Databases & Infra:** PostgreSQL, PostGIS, Redis, Apache Kafka, Docker, AWS, Git
+
+**Other:** Flutter, React, IoT, Embedded Systems, Grafana, Web3
+
+---
+
+### 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **AI Engineer** | [Pt Bagus Harapan Tritunggal](https://bht.co.id) | Aug 2025 — Present |
+| **Backend Engineer & Tech Lead** | [Orbit Tech Solution](https://orbitechsolution.com) | Jul 2023 — Aug 2025 |
+| **Freelance Full-Stack Developer & ML Engineer** | Freelance | Jan 2021 — Jul 2023 |
+
+---
+
+### 🚀 Featured Projects
+
+- **[Enterprise Face Recognition API](https://bht.co.id)** — Scalable face recognition system with anti-spoofing & liveness analysis. *Python, Django, InsightFace, Ultralytics, MediaPipe, OpenCV*
+- **[AI Policy Simulator](https://bht.co.id)** — Agentic AI tool for simulating & predicting legal policy impacts for Kemenkumham. *Python, LLMs, Langchain, Ollama, MCP, Django, TypeScript*
+- **[Karpous — RWA Platform](https://karpous.com)** — Real-World Asset tokenization platform with hybrid centralized/decentralized architecture. *Django, PostgreSQL, Web3, gRPC, Redis, MetaMask, React*
+- **[Fairway Golf Engine](https://fairwaytec.com)** — Hyper-realistic golf simulator with PINNs & ANNs for ball trajectory prediction. *Django, PostGIS, Python, PyTorch, PINNs, ANNs, REST APIs*
+- **[OnFarm — Smart Farming IoT](https://hi.rissets.com)** — Smart farming platform connecting investors & farmers with real-time IoT data. *Django, MPTT, Grafana, IoT, gRPC, Python, REST APIs*
+- **[Quantitative Trading Bot](https://hi.rissets.com)** — AI-driven stock investment recommendation system. *Python, Pandas, Scikit-learn, TensorFlow, Backtesting, REST APIs*
+
+---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,7 +63,7 @@ Other than that, I have great interests in martial arts, writing, and music, and
 - [Port Scanner Dengan Python](https://dev.to/danangharissetiawan/port-scanner-dengan-python-40o0)
 <!-- BLOG-POST-LIST:END -->
 
-### 📅 I'm an early date
+### 📅 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
@@ -43,9 +81,20 @@ INI          1 hr 14 mins          ██░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+---
 
-[website]: https://risset.me
+### 📫 Get In Touch
+
+I'm currently open to new opportunities and collaborations. Whether you have a question about AI systems, want to discuss a project idea, or just want to say hi — feel free to reach out!
+
+- 🌐 **Portfolio:** [hi.rissets.com](https://hi.rissets.com)
+- 🖥️ **SSH:** `ssh hello.rissets.com`
+- 📧 **Email:** [hi@rissets.com](mailto:hi@rissets.com)
+- 💼 **LinkedIn:** [linkedin.com/in/danangharis](https://www.linkedin.com/in/danangharis)
+- 🐙 **GitHub:** [github.com/rissets](https://github.com/rissets)
+
+[website]: https://hi.rissets.com
 [twitter]: https://twitter.com/Danangharisset1
 [instagram]: https://www.instagram.com/mr.danang_haris
 [linkedin]: https://www.linkedin.com/in/danangharis
-[webdevplaylist]: https://github.com/danangharissetiawan/danangharissetiawan
+[github]: https://github.com/rissets
