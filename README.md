@@ -68,12 +68,14 @@ Outside work, I occasionally blog on [Medium](https://medium.com/@mr.danangharis
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2026 - To: 26 March 2026
+From: 20 March 2026 - To: 27 March 2026
 
-Total Time: 1 hr 25 mins
+Total Time: 1 hr 55 mins
 
-TypeScript   1 hr 17 mins          ██████████████████████▓░░   90.57 %
-JavaScript   3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+TypeScript   1 hr 44 mins          ██████████████████████▒░░   89.85 %
+JavaScript   3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+SQL          2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+HTML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
