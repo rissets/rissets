@@ -68,15 +68,15 @@ Outside work, I occasionally blog on [Medium](https://medium.com/@mr.danangharis
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2026 - To: 01 June 2026
+From: 26 May 2026 - To: 02 June 2026
 
-Total Time: 20 hrs 31 mins
+Total Time: 25 hrs 46 mins
 
-Markdown     7 hrs 38 mins         █████████▒░░░░░░░░░░░░░░░   37.20 %
-Python       4 hrs 45 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.20 %
-JavaScript   4 hrs 2 mins          █████░░░░░░░░░░░░░░░░░░░░   19.66 %
-HTML         52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-CSS          52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Markdown      9 hrs 44 mins         █████████▒░░░░░░░░░░░░░░░   37.78 %
+Python        6 hrs 15 mins         ██████░░░░░░░░░░░░░░░░░░░   24.26 %
+JavaScript    4 hrs 2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
+HTML          1 hr 19 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Other         56 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
 ```
 
 <!--END_SECTION:waka-->
