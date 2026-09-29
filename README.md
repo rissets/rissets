@@ -68,11 +68,11 @@ Outside work, I occasionally blog on [Medium](https://medium.com/@mr.danangharis
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2026 - To: 27 September 2026
+From: 21 September 2026 - To: 28 September 2026
 
-Total Time: 11 hrs 34 mins
+Total Time: 9 hrs 33 mins
 
-Other        4 hrs 20 mins         █████████▒░░░░░░░░░░░░░░░   37.48 %
+Other        2 hrs 39 mins         ███████░░░░░░░░░░░░░░░░░░   27.86 %
 ```
 
 <!--END_SECTION:waka-->
